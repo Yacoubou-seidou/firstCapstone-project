@@ -12,7 +12,7 @@ body {
 }
 
 .bigheader {
-  color: #d91c00;
+  color: #ec5242;
 }
 
 .salute {
@@ -155,7 +155,7 @@ body {
   }
 
   .red_bar {
-    border: 1px solid #9c3e36;
+    border: 1px solid #ec5242;
     width: 10%;
     margin-bottom: 5%;
   }
@@ -180,11 +180,11 @@ body {
   .card_program h3 {
     margin-left: 20px;
     margin-right: 20px;
-    color: #c74d38;
+    color: #ec5242;
   }
 
   .join {
-    background-color: #ff4f38;
+    background-color: #ec5242;
     margin: 0 auto;
     padding: 20px;
     border: 0;
@@ -204,10 +204,11 @@ body {
   .title {
     padding-top: 8%;
     margin-top: 0;
+    text-align: center;
   }
 
   .red_bar2 {
-    border: 1px solid #fda69c;
+    border: 1px solid #ec5242;
     width: 10%;
     margin-bottom: 5%;
   }
@@ -306,14 +307,10 @@ body {
     align-items: center;
   }
 
-  .current {
-    color: #ec896a;
-  }
-
   .social ul {
     margin-top: 0;
     margin-bottom: 0;
-    width: 40%;
+    width: 30%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -381,7 +378,16 @@ body {
   .menu_list li a {
     margin-bottom: 5%;
     text-decoration: none;
-    color: #3e3e3e;
+  }
+
+  .link_item {
+    color: #272a31;
+  }
+
+  .compaign {
+    border: 4px solid #ec5242;
+    padding: 5px;
+    color: #ec5242;
   }
 
   .showMenu {
@@ -427,7 +433,7 @@ body {
   }
 
   .red_bar {
-    border: 1px solid #9c3e36;
+    border: 1px solid #ec5242;
     width: 10%;
     margin-bottom: 5%;
   }
@@ -495,7 +501,7 @@ body {
   }
 
   .red_bar2 {
-    border: 1px solid #fda69c;
+    border: 1px solid #ec5242;
     width: 10%;
     margin-bottom: 5%;
   }

@@ -74,7 +74,7 @@ function displayCard() {
   let allCards = '';
   speackersData.forEach((speacker) => {
     allCards = `${allCards} <div class="card_speaker ${speacker.classes}">
-              <img class="portrait" src="${speacker.img}" alt="">
+              <img class="portrait" src="${speacker.img}" alt="speacker_image">
               <div class="information">
                   <h5 class="name">${speacker.name}</h5>
                   <p class="subtitle">${speacker.subtitle}</p>
