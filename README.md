@@ -14,6 +14,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [� Description Video](#-description-video)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -45,6 +46,10 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://yacoubou-seidou.github.io/firstCapston-project/)
+
+## 🚀 Description Video<a name="video-demo"></a>
+
+- [Project Description Video Link](https://www.loom.com/share/de74a7ab4b4e424eb8d493d0c93132f9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
