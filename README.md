@@ -27,7 +27,7 @@
 
 # 📖 firstCapston-project <a name="about-project"></a>
 
-> This is my first Capston project in the Microverse program. Responsive on mobile and desktop
+> The first capstone project, where i recreate Niger Connexion website according to the project-requirement-guidelines
 
 **firstCapston-project** is a basic HTML,CSS and Javascript repository
 
@@ -39,7 +39,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
+- **[Hamburger_menu_on_mobile_view]**
+- **[Speakers_content_add_white_javascript]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -122,7 +123,9 @@ If you like this project give me a follow
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thanks all my coding partners at Microverse
+- To [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), Original design.
+- Creative Commons license of the design
+-I would like to thanks all my coding partners at Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
