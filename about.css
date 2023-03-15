@@ -257,7 +257,7 @@ header {
   text-align: center;
   padding: 20px;
   overflow: hidden;
-  background: linear-gradient(#ec53428c, #ec53426a), url("/pictures/2016-past.jpg");
+  background: linear-gradient(#ec53428c, #ec53426a), url("./pictures/2016-past.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 10%;
@@ -268,7 +268,7 @@ header {
   text-align: center;
   padding: 20px;
   overflow: hidden;
-  background: linear-gradient(#ec53428c, #ec53426a), url("/pictures/2017-past.jpg");
+  background: linear-gradient(#ec53428c, #ec53426a), url("./pictures/2017-past.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 10%;
