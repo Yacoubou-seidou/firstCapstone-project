@@ -73,7 +73,7 @@ const speackersData = [
 function displayCard() {
   let allCards = '';
   speackersData.forEach((speacker) => {
-    allCards = `${allCards} <div class="card_speaker ${speacker.classes}">
+    allCards = `${allCards} <article class="card_speaker ${speacker.classes}">
               <img class="portrait" src="${speacker.img}" alt="speacker_image">
               <div class="information">
                   <h5 class="name">${speacker.name}</h5>
@@ -81,7 +81,7 @@ function displayCard() {
                   <hr class="grey_bar">
                   <p class="description">${speacker.desc}.</p>
               </div>
-            </div>
+            </article>
                         `;
   });
   speackerCards.innerHTML = allCards;

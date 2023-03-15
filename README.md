@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>firstCapston-project</b></h3>
+  <h3><b>firstCapstone-project</b></h3>
 
 </div>
 
@@ -14,7 +14,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-  - [� Description Video](#-description-video)
+  - [🚀 Description Video](#-description-video)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -45,7 +45,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yacoubou-seidou.github.io/firstCapston-project/)
+- [Live Demo Link](https://yacoubou-seidou.github.io/firstCapstone-project/)
 
 ## 🚀 Description Video<a name="video-demo"></a>
 
@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Yacoubou-seidou/firstCapston-project.git
+  git clone https://github.com/Yacoubou-seidou/firstCapstone-project.git
 ```
 
 ### Usage
@@ -112,7 +112,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Yacoubou-seidou/firstCapston-project/issues).
+Feel free to check the [issues page](https://github.com/Yacoubou-seidou/firstCapstone-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
